@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2020-5-4
-excerpt: About State of the Times
+excerpt: About Sports Skeptic
 type: page
 blog: false
 tags:
@@ -9,6 +9,6 @@ tags:
 <br/>
 <br/>
 
-## What is State of the Times?
-State of the Times is an op-ed site for memorializing the crazy things in our world
+## What is Sports Skeptic?
+Sports Skeptic is an op-ed site for memorializing the crazy things in the sports world
 

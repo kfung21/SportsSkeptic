@@ -1,7 +1,7 @@
 const currentDateUTC = new Date().toUTCString()
 
 module.exports = {
-	title: 'State of the Times',
+	title: 'Sports Skeptic',
 	dest: './public',
 	themeConfig: {
 		// repo: 'https://github.com/kfung21/CivilCalifornia.git',
@@ -16,9 +16,7 @@ module.exports = {
 			{ text: 'Blog', link: '/blog/'},
 			{ text: 'Tags', items: [
 				{ text: 'All Tags', link: '/tags/'},
-				{ text: 'Times', link: '/tags/#stateofthetimes'},
 				{ text: 'Sports', link: '/tags/#sports' },
-				{ text: 'Misc', link: '/tags/#misc'},
 			]},
 			{ text: 'Archive', link: '/archive/'},
 			{ text: 'About', link: '/about' },
