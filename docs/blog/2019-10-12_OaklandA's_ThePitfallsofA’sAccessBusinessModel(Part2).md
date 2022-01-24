@@ -14,7 +14,7 @@ summary: What's Gone Wrong with Baseball Season Passes
 <img src="https://cdn.vox-cdn.com/uploads/chorus_asset/file/19281458/81318chapmaninterview_1920x1080.0.jpg" width=100%>
 Matt Chapman Begs A's Fans to Come to the Park
 
-Note: This is a continuation of my first background post on the downfall of [live sports entertainment](/blog/2019-10-10_OaklandA'sTheDeathofBaseballandSportsEntertainment-Part1(Don’tBlametheMillennials).md) going forward. Here, I will address my gripes with A’s Access.
+Note: This is a continuation of my first background post on the downfall of [live sports entertainment](http://sportsskeptic.com/blog/2019-10-10_OaklandA'sTheDeathofBaseballandSportsEntertainment-Part1(Don%E2%80%99tBlametheMillennials).html) going forward. Here, I will address my gripes with A’s Access.
 
 ## Good in Theory
 

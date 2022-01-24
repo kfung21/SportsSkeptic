@@ -13,7 +13,7 @@ summary: What's Gone Wrong with Live Baseball Events
 <TagLinks />
 <img src="https://cdn.vox-cdn.com/uploads/chorus_asset/file/19282830/gettyimages-1023120300-2048x2048.0.jpg" width=100%>
 
-Disclaimer: this is an oped post and all these takes are my own. I am a huge A’s fan, but am cancelling my A’s Access and will try to explain the rationale in [part 2](https://www.athleticsnation.com/2019/10/12/20911228/the-pitfalls-of-a-s-access-business-model-part-2).
+Disclaimer: this is an oped post and all these takes are my own. I am a huge A’s fan, but am cancelling my A’s Access and will try to explain the rationale in [part 2](http://sportsskeptic.com/blog/2019-10-12_OaklandA's_ThePitfallsofA%E2%80%99sAccessBusinessModel(Part2).html).
 
 ## Millennial Dilemma 
 
