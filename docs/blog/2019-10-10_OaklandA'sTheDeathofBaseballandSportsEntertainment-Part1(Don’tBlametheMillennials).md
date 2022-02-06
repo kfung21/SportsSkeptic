@@ -2,9 +2,8 @@
 title: Oakland A's and the Death of Baseball and Sports Entertainment - Part 1 (Don’t blame the Millennials)
 date: 10-10-2019
 tags: 
-  - sportsskeptic
-  - sports
   - A's
+  - MLB
 author: SS
 blog: true
 sidebar: auto

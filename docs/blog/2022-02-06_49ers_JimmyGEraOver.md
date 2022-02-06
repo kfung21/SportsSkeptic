@@ -1,7 +1,7 @@
 ---
 title: The 49ers Jimmy G Era is Over (OUTLINE)
 date: 02-06-2022
-tags: ['sportsskeptic', 'sports', '49ers']
+tags: ['NFL', '49ers']
 author: SS
 blog: true
 sidebar: auto

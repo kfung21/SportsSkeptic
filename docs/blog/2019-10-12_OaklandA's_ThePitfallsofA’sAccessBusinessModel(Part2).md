@@ -2,8 +2,7 @@
 title: Oakland A's and the Pitfalls of A’s Access Business Model (Part 2)
 date: 10-12-2019
 tags: 
-  - sportsskeptic
-  - sports
+  - MLB
   - A's
 author: SS
 blog: true

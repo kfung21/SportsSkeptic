@@ -2,10 +2,9 @@
 title: The Last Dance - A New Era
 date: 5-4-2020
 tags: 
-  - sportsskeptic
-  - sports
   - Bulls
   - Warriors
+  - NBA
 author: SS
 blog: true
 sidebar: auto
