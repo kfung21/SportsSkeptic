@@ -1,12 +1,12 @@
 ---
 home: true
 heroImage: https://drive.google.com/uc?export=view&id=1nisNN4ob8jqrUN-xby5NWBNwrnx06bp7
-heroText: Sports Skeptic
-tagline: Sports Commentary
+heroText: SPORTS SKEPTIC
+tagline: Bay Area Sports Commentary and Beyond
 taglineLink: /blog/
 pageClass: homepage
-# actionText: Posts
-# actionLink: /blog/
+actionText: SPORTS!?
+actionLink: /blog/
 # layout: SpecialLayout #uses SpecialLayout.vue instead
 # features:
 #   - title: Times

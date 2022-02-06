@@ -14,10 +14,10 @@ module.exports = {
 		sidebar: 'auto',
 		nav: [
 			{ text: 'Blog', link: '/blog/'},
-			{ text: 'Tags', items: [
-				{ text: 'All Tags', link: '/tags/'},
-				{ text: 'Sports', link: '/tags/#sports' },
-			]},
+			{ text: 'Tags', link: '/tags/'},
+			// { text: 'Tags', items: [
+			// 	{ text: 'All Tags', link: '/tags/'}
+			// ]},
 			{ text: 'Archive', link: '/archive/'},
 			{ text: 'About', link: '/about' },
 		],

@@ -4,7 +4,8 @@ date: 5-4-2020
 tags: 
   - sportsskeptic
   - sports
-  - bulls
+  - Bulls
+  - Warriors
 author: SS
 blog: true
 sidebar: auto
