@@ -4,7 +4,7 @@ date: 10-10-2019
 tags: 
   - sportsskeptic
   - sports
-  - oaklandas
+  - A's
 author: SS
 blog: true
 sidebar: auto

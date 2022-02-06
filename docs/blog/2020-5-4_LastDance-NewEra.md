@@ -4,6 +4,7 @@ date: 5-4-2020
 tags: 
   - sportsskeptic
   - sports
+  - bulls
 author: SS
 blog: true
 sidebar: auto
